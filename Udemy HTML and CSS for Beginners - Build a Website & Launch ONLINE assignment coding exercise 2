@@ -1,0 +1,15 @@
+CODING EXERCISE 2:
+create the biggest heading 
+
+index.html
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <titlle>MY COLLEGE </title>
+    </head>
+    <body>
+        <h1> WELCOME TO ANDHRA UNIVERSITY</h1>
+
+    </body>
+</html>
