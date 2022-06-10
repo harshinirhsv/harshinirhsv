@@ -1,0 +1,17 @@
+CODING EXERCISE 1:
+Create an HTML paragraph element with some text inside 
+
+index.html:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>About ME </h1>
+<p>My name is harshini.Im a 2nd year undergrad student from andhra university college of engineering for women studying computer science</p>
+
+</body>
+</html>
