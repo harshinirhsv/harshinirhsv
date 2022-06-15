@@ -1,8 +1,10 @@
+//It is the basic example of JavaScript code embedded in HTML code
+
 <!DOCTYPE html>
 
 <html lang="en">
 
-//It is the basic example of JavaScript code embedded in HTML code.
+
 
 <head>
 
